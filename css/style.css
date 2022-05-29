@@ -28,6 +28,9 @@ h1, h2 {
   font-family: 'Gabriela', serif;
   color: #fff;
 }
+h5{
+  color: #fff;
+}
 
 h1 {
   font-size: 3.5em;
@@ -62,6 +65,7 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color: blue;
 }
 
 @media only screen and (max-width: 1042px) {
@@ -84,3 +88,7 @@ a:hover {
     width: 95%;
   }
 }
+ul{
+  list-style: none;
+}
+
